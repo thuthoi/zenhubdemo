@@ -1,2 +1,2 @@
-# zenhubdemo
+# Zenhub Demo
 Zenhub demo
